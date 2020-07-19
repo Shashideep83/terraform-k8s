@@ -4,7 +4,7 @@ kind: Kustomization
 secretGenerator:
 - name: mysql-pass
   literals:
-  - password=pwd12345
+  - password=****
 
 resources:
   - mysql-deployment.yaml
