@@ -17,5 +17,5 @@ spec:
 
     spec:
       containers:
-      - name: "mycont"
+      - name: "mycontm"
         image: "k8s.gcr.io/echoserver:1.10"
