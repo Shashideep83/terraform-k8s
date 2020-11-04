@@ -3,7 +3,7 @@ kind: ReplicationController
 metadata:
   name: rc1
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     dc: IN
   template:
