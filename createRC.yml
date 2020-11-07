@@ -8,7 +8,7 @@ spec:
     dc: IN
   template:
     metadata:
-      name: mypod1
+      name: mypod1j
       labels:
 
         env: dev
